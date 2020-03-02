@@ -1,1 +1,1 @@
-# HackNPitch-
+# HackNPitch Summit
