@@ -2,6 +2,11 @@
 
 This project includes a traffic simulation aimed at making the traffic flow smoother across traffic lights, while also taking into account the convenience of pedestrians.
 
+## Team Members:
+- [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
+- [Ayushman Kumar](https://github.com/ayushmankumar7)
+- [Suvranil Dutta Biswas](https://github.com/neil-dev)
+
 ## Features
 
 - [x] Smart Traffic Light management so that a car does not have to stop at successive traffic lights if they travel with the recommended speed.
